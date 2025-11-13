@@ -1,6 +1,6 @@
 import { SectionProps } from "@/types/sectionProps";
 import WhyChooseUsImage from "@/public/img/why-choose-us/a.jpg";
-import WhyChooseUsImageMobile from "@/public/img/why-choose-us/575.jpg";
+import WhyChooseUsImageMobile from "@/public/img/why-choose-us/a.jpg";
 import PromoImage from "@/public/img/why-choose-us/c.avif";
 import Icons from "@/components/Icons";
 
