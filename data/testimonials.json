@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Jenny Watson",
+    "role": "SCG First Company",
+    "review": "This platform has been a game changer for our business. The insights and services provided were instrumental in our growth.",
+    "rating": 5,
+    "image": "/img/testimonial/t1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Harry Abraham",
+    "role": "SCG First Company",
+    "review": "Highly recommend their skill development programs. Our team is more skilled and confident than ever.",
+    "rating": 5,
+    "image": "/img/testimonial/t2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ron Di-soza",
+    "role": "SCG First Company",
+    "review": "The financial advisory services helped us secure the funding we needed. Fantastic experience overal||!",
+    "rating": 5,
+    "image": "/img/testimonial/t3.jpg"
+  }
+]

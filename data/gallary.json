@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "title": "Please put your data Here",
+        "category": "Demo Category",
+        "image": "/img/gallary/1.avif"
+        
+    },
+    {
+        "id": 2,
+        "title": "Please put your data Here",
+        "category": "Demo Category",
+        "image": "/img/gallary/2.avif"
+        
+    },
+    {
+        "id": 3,
+        "title": "Please put your data Here",
+        "category": "Demo Category",
+        "image": "/img/gallary/3.avif"
+        
+    },
+    {
+        "id": 4,
+        "title": "Please put your data Here",
+        "category": "Demo Category",
+        "image": "/img/gallary/4.avif"
+        
+    }
+   
+]
